@@ -1,0 +1,12 @@
+.row1{
+    display: flex;
+    top: 100px;
+}
+.col1{
+    display: flex;
+
+}
+img{
+    position: absolute;
+    display: flex;
+}
